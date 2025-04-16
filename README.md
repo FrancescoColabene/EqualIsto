@@ -1,6 +1,6 @@
 # Equalizzazione dell'istogramma di un'immagine
 
-Il progetto implementa l'equalizzazione dell'istogramma di un'immagine, volto a incrementare il contrasto dell'immagine distribuendo il valore dei colori su un range più ampio. La versione presa in considerazione è semplificata e comprende solo una scala di grigi a 256 valori: maggiori dettagli si trovano nel [file di specifica](Specifica.pdf). Il progetto è stato realizzato come prova finale per il corso di **Reti logiche** del Politecnico di Milano (Anno Accademico 2020/2021).
+Il progetto implementa l'equalizzazione dell'istogramma di un'immagine, volto a incrementare il contrasto dell'immagine distribuendo il valore dei colori su un range più ampio. La versione presa in considerazione è semplificata e comprende solo una scala di grigi a 256 valori: maggiori dettagli si trovano nel [file di specifica](Specifica.pdf). Il progetto è stato realizzato come prova finale per il corso di **Reti logiche**.
 
 ## 📌 Descrizione
 
